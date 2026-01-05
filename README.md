@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @Blackangel48
-
-<!---
-Blackangel48/Blackangel48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✨️ Hi, I'm a Full-stack developper
+- 🍃 I'm currently learning and deepening my knowledge of React.js, Angular, Tailwind and many others...
